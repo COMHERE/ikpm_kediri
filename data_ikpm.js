@@ -43,7 +43,7 @@ $(document).ready(function() {
                     },
 
                 ],
-                order: [0, 'asc'],
+                order: [1, 'asc'],
 
                 fixedHeader: {
                     headerOffset: 50
