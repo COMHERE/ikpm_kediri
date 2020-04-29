@@ -7,8 +7,8 @@ $(document).ready(function() {
 
             var table = $('#data_ikpm_kediri').DataTable({
                 "scrollX": true,
-                  "scrollY":        "200px",
-                 "scrollCollapse": true,
+                "scrollY": "200px",
+                "scrollCollapse": true,
                 "responsive": true,
                 "searchable": false,
                 "orderable": false,
