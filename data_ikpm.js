@@ -24,7 +24,7 @@ $(document).ready(function() {
                         "mDataProp": "gsx$tahunangkatanalumnigontor.$t"
                     },
                     {
-                        "mDataProp": "gsx$nostambuk.$t"
+                        "mDataProp": "gsx$no.stambuk.$t"
                     },
                     {
                         "mDataProp": "gsx$jeniskelamin.$t"
