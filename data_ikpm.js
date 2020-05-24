@@ -6,7 +6,6 @@ $(document).ready(function() {
             }
 
             var table = $('#data_ikpm_kediri').DataTable({
-                var stb = gsx$no.stambuk.$t;
                 "scrollX": true,
                 "responsive": true,
                 "searchable": false,
@@ -25,7 +24,7 @@ $(document).ready(function() {
                         "mDataProp": "gsx$tahunangkatanalumnigontor.$t"
                     },
                     {
-                        "mDataProp": stb
+                        "mDataProp": "gsx$nostambuk.$t"
                     },
                     {
                         "mDataProp": "gsx$jeniskelamin.$t"
